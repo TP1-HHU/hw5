@@ -4,7 +4,7 @@ Due until 20.11., 16:00
 
 ---
 
-In this homework you have to extend the solution of Lab 6. You have to start with the solution for Lab 6 published on Thursday morning [here](http://github.com/TP1-HHU/lab6) (after the last lab class on Thursday morning).
+In this homework you have to extend the solution of Lab 6. You have to start with the solution for Lab 6 published on Thursday morning [here](http://github.com/TP1-HHU/lab6) (link only availabe after the lab class on Thursday morning).
 
 Extend the `Vec` class with the following functionality.
 
@@ -20,5 +20,5 @@ file.
 
 * Add a member function `resize(const int M)` that resizes the
 vector. If *M<N*, where *N* is the current size, then all entries
-*i>N$ can be thrown away. If *M>N* then the additional new entries
+*i>N* can be thrown away. If *M>N* then the additional new entries
 shall be initialized to the value 0.
